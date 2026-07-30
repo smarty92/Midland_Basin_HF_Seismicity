@@ -17,3 +17,7 @@ The "functions_and_notebooks" folder contains additional files. Please read the 
 ###############
 
 The "processed_data" folder contains different datasets: cluster information, forecast results, and other analyses. Please read the README.md file in the folder for additional information.
+
+###############
+
+The "raw_data" folder contains the files "seismic_catalog.csv", "injection.csv", and "ProdTimeSeries_09112025.pkl" which correspond to the MTX seismic catalog, the file containing the HF injection data, and the unconventional production data used in our study, respectively.
